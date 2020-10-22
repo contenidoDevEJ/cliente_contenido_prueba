@@ -1,7 +1,7 @@
 var staticCacheName = "pwaContenidopru" + new Date().getTime();
 var filesToCache = [
-    './',
-    './serviceworker.js',
+    '/',
+    '/serviceworker.js',
     '/offline.html',
     '/images/icons/icon-72x72.png',
     '/images/icons/icon-96x96.png',
